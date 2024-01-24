@@ -1,3 +1,4 @@
 print 'Hello world';
 print 'Hello everybody';
 print "HELLO"
+print "Внешу изменения из ветки 001"
