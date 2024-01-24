@@ -3,3 +3,5 @@ print 'Hello everybody';
 print "HELLO"
 print "Внешу изменения из ветки 001"
 print "Вношу изменения из мастера"
+
+Изменение в text
